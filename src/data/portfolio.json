@@ -1,0 +1,28 @@
+{
+    "portfolio": [
+        {
+            "image": "/portfolio/coverpages/knp.png",
+            "title": "KNPerformance",
+            "description": "Fitness Page feat HTML, CSS, Sass, Javascript",
+            "url": "https://kevinng2.github.io/KNPerformance/"
+        },
+        {
+            "image": "/portfolio/coverpages/add-to-cart-pic.png",
+            "title": "Shopping Cart",
+            "description": "Shopping Cart using HTML, CSS, JS, Firebase",
+            "url": "https://kevinng2.github.io/add-to-cart/"
+        },
+        {
+            "image": "/portfolio/coverpages/weather-dashboard.png",
+            "title": "Weather-App",
+            "description": "Weather Dashboard feat API, JQuery ",
+            "url": "https://kevinng2.github.io/Weather-Dashboard/"
+        },
+        {
+            "image": "/portfolio/coverpages/homepage.png",
+            "title": "Teacher's Pet",
+            "description": "Classroom App using APIs, Handlebars, MySQL",
+            "url": "https://github.com/jffsun/teachers-pet/"
+        }
+    ]
+}
